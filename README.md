@@ -176,4 +176,6 @@ This section creates a test seller and demonstrates:
   - How to get started on “class Car:” part (refresher)  
   - Correction on if/else and recommendation on code   
   - Understanding what is being asked of in the assignment   
-  - Moral support (because still unable to code without help and format) 
+  - Moral support (because still unable to code without help and format)
+## Note on Dataset 
+This project uses the USA_cars_dataset.csv from Kaggle. The full dataset file is not included in this repository due to Github's file size limits (25MB), but the code demonstrates loading and processing the complete dataset locally. 
